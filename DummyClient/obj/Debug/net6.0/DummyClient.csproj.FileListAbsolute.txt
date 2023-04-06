@@ -1,0 +1,15 @@
+D:\study\C#\Server\DummyClient\bin\Debug\net6.0\DummyClient.exe
+D:\study\C#\Server\DummyClient\bin\Debug\net6.0\DummyClient.deps.json
+D:\study\C#\Server\DummyClient\bin\Debug\net6.0\DummyClient.runtimeconfig.json
+D:\study\C#\Server\DummyClient\bin\Debug\net6.0\DummyClient.dll
+D:\study\C#\Server\DummyClient\bin\Debug\net6.0\DummyClient.pdb
+D:\study\C#\Server\DummyClient\obj\Debug\net6.0\DummyClient.csproj.AssemblyReference.cache
+D:\study\C#\Server\DummyClient\obj\Debug\net6.0\DummyClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\C#\Server\DummyClient\obj\Debug\net6.0\DummyClient.AssemblyInfoInputs.cache
+D:\study\C#\Server\DummyClient\obj\Debug\net6.0\DummyClient.AssemblyInfo.cs
+D:\study\C#\Server\DummyClient\obj\Debug\net6.0\DummyClient.csproj.CoreCompileInputs.cache
+D:\study\C#\Server\DummyClient\obj\Debug\net6.0\DummyClient.dll
+D:\study\C#\Server\DummyClient\obj\Debug\net6.0\refint\DummyClient.dll
+D:\study\C#\Server\DummyClient\obj\Debug\net6.0\DummyClient.pdb
+D:\study\C#\Server\DummyClient\obj\Debug\net6.0\DummyClient.genruntimeconfig.cache
+D:\study\C#\Server\DummyClient\obj\Debug\net6.0\ref\DummyClient.dll
